@@ -11,6 +11,7 @@
   inputs.src-jnim-v0_1_1.ref   = "refs/tags/v0.1.1";
   inputs.src-jnim-v0_1_1.owner = "yglukhov";
   inputs.src-jnim-v0_1_1.repo  = "jnim";
+  inputs.src-jnim-v0_1_1.dir   = "";
   inputs.src-jnim-v0_1_1.type  = "github";
   
   inputs."nimfp".owner = "nim-nix-pkgs";

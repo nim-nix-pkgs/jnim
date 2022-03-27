@@ -11,6 +11,7 @@
   inputs.src-jnim-master.ref   = "refs/heads/master";
   inputs.src-jnim-master.owner = "yglukhov";
   inputs.src-jnim-master.repo  = "jnim";
+  inputs.src-jnim-master.dir   = "";
   inputs.src-jnim-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
