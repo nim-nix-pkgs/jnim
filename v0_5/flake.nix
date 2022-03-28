@@ -11,7 +11,6 @@
   inputs.src-jnim-v0_5.ref   = "refs/tags/v0.5";
   inputs.src-jnim-v0_5.owner = "yglukhov";
   inputs.src-jnim-v0_5.repo  = "jnim";
-  inputs.src-jnim-v0_5.dir   = "";
   inputs.src-jnim-v0_5.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
